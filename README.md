@@ -1,10 +1,22 @@
-# tmdb_movies
+# TMDB MOVIES APP
 
-A new Flutter project.
+A Flutter app that showcases the latest movies, popular movies, top-rated movies, and movie details using the TMDB API.
+
+## Screenshots
+
+<div style="display: flex;">
+  <img src="Screenshot_20230708-165625.png" alt="Image 1" style="width: 50%;" />
+  <img src="Screenshot_20230708-165659.png" alt="Image 2" style="width: 50%;" />
+</div>
+
+## Features
+
+- Browse Now Playing movies: Get a list of the currently playing movies, including release date, overview, and poster image.
+- Explore Popular movies: Discover the most popular movies, along with their ratings and genres.
+- Discover Top Rated movies: Explore the top-rated movies based on user ratings.
+- Movie Details: View detailed information about a specific movie, including overview and user rating.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
