@@ -5,7 +5,11 @@ A Flutter app that showcases the latest movies, popular movies, top-rated movies
 ## Screenshots
 
 <div style="display: flex;">
+<<<<<<< HEAD
   <img src="Screenshot_20230708-165625.png" alt="Image 1" style="width: 30%; margin-right: 10px; " />
+=======
+  <img src="Screenshot_20230708-165625.png" alt="Image 1" style="width: 50%; " />
+>>>>>>> c7bfc7fa05fe59353339fa254461cef9e17aec71
 
   <img src="Screenshot_20230708-165659.png" alt="Image 2" style="width: 30%;" />
 </div>
